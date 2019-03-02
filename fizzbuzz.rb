@@ -15,4 +15,4 @@ end
 fizzbuzz(3)
 fizzbuzz(5)
 fizzbuzz(15)
-fizzbuzz(0)
+fizzbuzz(4)
